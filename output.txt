@@ -1,0 +1,5 @@
+Mean: 12.6
+Median: 10
+Mode: None (no repeated value)
+Even count: 2
+Odd count: 3

@@ -1,0 +1,25 @@
+Code created for evaluation purposes.
+
+Prerequisites :
+C++ Complier (GCC recomended)
+input file 'input.txt'
+
+Compilation :
+Go to the file you have saved the code.
+
+and then use:
+     g++ -o HwX.cpp -o HWX
+
+afterwards use command:
+    ./HWX
+
+Everything should Run smoothly.
+
+The program writes the analysis results to 'output.txt'.
+
+Note programs assues that input file is well formed and contains less than 999 integers.
+
+Author
+Faur Dumitru Radu Catalin 
+
+Thank you!
